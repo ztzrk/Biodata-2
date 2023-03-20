@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247484262641",
+    "project_id": "biodata-2-5d67c",
+    "storage_bucket": "biodata-2-5d67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247484262641:android:b5af82f8d6c4c895aae150",
+        "android_client_info": {
+          "package_name": "com.example.biodata2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247484262641-4qbm02skarj35qeg919e4kvpth2e2bkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsPrbA8ngwPK-w42zndnZjvBEqhNzvKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247484262641-4qbm02skarj35qeg919e4kvpth2e2bkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
